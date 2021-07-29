@@ -61,5 +61,6 @@ int main()
 	{
 		std::cout << trashFinder(input[0], input[1], input[i]) << "\n";
 	}
+	std::getchar();
 	return EXIT_SUCCESS;
 }
